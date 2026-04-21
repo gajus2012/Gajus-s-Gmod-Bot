@@ -61,6 +61,7 @@ local USE_ENTITY			=	4
 local HOLD_POSITION			=	5
 local HEAL_PLAYER			=	6
 local REVIVE_PLAYER			=	7
+local WANDER				=	8
 
 -- Setup lookat states
 --local NOT_LOOKING_AT_SPOT	=	0
